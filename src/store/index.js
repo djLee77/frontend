@@ -1,3 +1,4 @@
+import router from '@/router'
 import Vue from 'vue'
 import Vuex from 'vuex'
 
